@@ -32,7 +32,7 @@ public class InsertValues {
 			} 
 			else {
 				System.out.println("database insertion failure");
-			}
+			} 
 			con.close();
 			return 1;
 		
